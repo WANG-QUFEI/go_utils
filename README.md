@@ -1,0 +1,1 @@
+A Simple Finite State Machine implementation in Go that can help building business flows with multiple states
