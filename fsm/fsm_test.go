@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	fsm "github.com/WANG-QUFEI/go_fsm"
+	"github.com/WANG-QUFEI/go_utils/fsm"
 	"github.com/google/uuid"
 	"github.com/hashicorp/go-memdb"
 	"github.com/stretchr/testify/require"
